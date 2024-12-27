@@ -10,7 +10,7 @@ git clone https://github.com/maksymstoliarov/neovim-config
 2. copy files into neovim config directory
 ```bash
 cd neovim-config
-mkdir nvim
+mkdir ~/.config/nvim
 cp ./* ~/.config/nvim
 ```
 
@@ -20,13 +20,13 @@ sudo apt install ripgrep -y
 ```
 
 ### Shortcuts
-
-1. 
+ 
+1. go back from editing to directory
 ```
 space + p + v
 ```
 
-2. go back from editing to directory
+2. search in directory by filename
 ```
 space + p + f
 ```
