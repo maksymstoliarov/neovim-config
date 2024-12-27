@@ -1,5 +1,7 @@
 # Neovim config
 
+Check out [Quickref - Neovim docs](https://neovim.io/doc/user/quickref.html)
+
 ### Installation
 
 1. clone repository
