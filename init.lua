@@ -1,0 +1,2 @@
+require("max")
+print("hello")
