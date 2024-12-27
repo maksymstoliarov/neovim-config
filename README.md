@@ -38,3 +38,12 @@ ctrl + p
 space + p + s
 ```
 
+5. Git changes
+```
+space + g + s
+```
+
+6. file changes
+```
+space + F5
+```
