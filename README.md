@@ -4,19 +4,14 @@ Check out [Quickref - Neovim docs](https://neovim.io/doc/user/quickref.html)
 
 ### Installation
 
-1. clone repository
+1. clone repo to neovim config directory
 ```bash
-git clone https://github.com/maksymstoliarov/neovim-config
-```
-
-2. copy files into neovim config directory
-```bash
-cd neovim-config
 mkdir ~/.config/nvim
-cp ./* ~/.config/nvim
+cd ~/.config/nvim
+git clone https://github.com/maksymstoliarov/neovim-config .
 ```
 
-3. install ripgrep for grep search
+2. install ripgrep for grep search
 ```bash
 sudo apt install ripgrep -y
 ```
