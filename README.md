@@ -38,7 +38,7 @@ ctrl + p
 space + p + s
 ```
 
-5. Git changes
+5. git changes
 ```
 space + g + s
 ```
