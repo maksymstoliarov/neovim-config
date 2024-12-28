@@ -1,3 +1,8 @@
+
+require("mason").setup()
+require("mason-lspconfig").setup()
+
+
 -- Reserve a space in the gutter
 vim.opt.signcolumn = 'yes'
 
