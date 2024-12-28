@@ -6,9 +6,7 @@ Check out [Quickref - Neovim docs](https://neovim.io/doc/user/quickref.html)
 
 1. clone repo to neovim config directory
 ```bash
-mkdir ~/.config/nvim
-cd ~/.config/nvim
-git clone https://github.com/maksymstoliarov/neovim-config .
+git clone https://github.com/maksymstoliarov/neovim-config ~/.config/nvim --depth 1
 ```
 
 2. install ripgrep for grep search
